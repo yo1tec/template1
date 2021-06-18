@@ -1,0 +1,65 @@
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  margin: 0 auto;
+  background-color: #fff;
+  width: 100%;
+  color: #000;
+}
+
+header {
+  width: 100%;
+  background-color: #000;
+  padding: 20px 0;
+  text-align: center;
+}
+
+header .logo {
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+}
+
+section {
+  font-size: 14px;
+  padding: 60px 0;
+}
+
+section h1 {
+  font-size: 18px;
+  text-align: center;
+}
+
+section .dummyimg {
+  width: 70%;
+  margin: 20px auto 0 auto;
+}
+
+section .dummyimg img {
+  width: 100%;
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+  background-color: #000;
+}
+
+footer .copy {
+  color: #fff;
+  padding: 20px 0;
+  font-size: 12px;
+}
+
+/*# sourceMappingURL=style.css.map */
